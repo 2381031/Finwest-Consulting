@@ -19,6 +19,7 @@ export default function Navigation() {
                 alt="Logo Finwest"
                 width={32}
                 height={32}
+                className="rounded-full" // Membuat logo bulat
                 priority
               />
               <span className="text-2xl font-bold text-blue-900">Finwest Consulting</span>
@@ -43,7 +44,10 @@ export default function Navigation() {
 
           {/* Mobile menu button */}
           <div className="md:hidden flex items-center">
-            <button onClick={() => setIsOpen(!isOpen)} className="text-gray-700 hover:text-blue-900">
+            <button
+              onClick={() => setIsOpen(!isOpen)}
+              className="text-gray-700 hover:text-blue-900"
+            >
               {isOpen ? <X size={24} /> : <Menu size={24} />}
             </button>
           </div>

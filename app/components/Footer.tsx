@@ -34,8 +34,8 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-semibold mb-4">Kontak</h4>
             <div className="space-y-2 text-blue-100">
-              <p>Email: info@finwestconsulting.com</p>
-              <p>Telepon: +62 21 1234 5678</p>
+              <p>Email:  finwestconsulting@gmail.com</p>
+              <p>Telepon: +62 856-9254-8836</p>
             </div>
           </div>
         </div>
