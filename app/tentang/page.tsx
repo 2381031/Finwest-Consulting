@@ -32,7 +32,7 @@ export default function TentangPage() {
           <div className="grid lg:grid-cols-2 gap-12 items-start mb-20">
             {/* Siapa Kami */}
             <div>
-              <h2 className="text-3xl font-bold text-blue-900 mb-6">Siapa Kami</h2>
+              <h2 className="text-3xl font-bold text-blue-900 mb-6">Siapa Kami?</h2>
               <p className="text-lg text-gray-700 mb-6 leading-relaxed">
                 Finwest Consulting adalah perusahaan konsultan keuangan dan bisnis yang berfokus pada pemberdayaan UMKM hingga perusahaan menengah ke atas. Kami memberikan kejelasan finansial strategis untuk mendukung pertumbuhan dan keberlanjutan bisnis di era kompetitif.
               </p>
