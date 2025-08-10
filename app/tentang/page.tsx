@@ -95,7 +95,7 @@ export default function TentangPage() {
                 />
                 <h4 className="text-xl font-semibold text-blue-900">Novika Frialestari Harianja, S.Ak.</h4>
                 <p className="text-gray-700 mb-1">Co-Founder</p>
-                <p className="text-gray-600">📧 finwestconsulting@gmail.com</p>
+                <p className="text-gray-600">📧 novikaharianja.finwest@gmail.com</p>
                 <p className="text-gray-600 mb-4">📞 +62 856-9254-8836</p>
                 <p className="text-gray-700 leading-relaxed text-justify">
                   Bersama beliau, Novika Frialestari Harianja, S.Ak., lulusan Akuntansi dari Universitas Advent Indonesia, turut mendirikan Finwest Consulting sebagai Co-Founder. Novika memiliki pemahaman yang kuat dalam akuntansi operasional dan pengelolaan sistem keuangan.
