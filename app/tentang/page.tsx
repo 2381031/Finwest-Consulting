@@ -79,10 +79,10 @@ export default function TentangPage() {
                 <p className="text-gray-600">📧 andrewcristmercy.finwest@gmail.com</p>
                 <p className="text-gray-600 mb-4">📞 +62 856-9254-8836</p>
                 <p className="text-gray-700 leading-relaxed text-justify">
-                  Finwest Consulting didirikan pada tahun 2025 oleh Andrew Christmercy Nababan, S.Tr., Ak., CAIA., CIAS, seorang profesional di bidang akuntansi dan investasi yang telah mengantongi berbagai sertifikasi bergengsi seperti Bravet AB, Chartered Auditor Internal Awareness (CAIA), dan Chartered Internal Auditor Senior (CIAS). Andrew merupakan lulusan Program Studi Akuntansi IPB University, dengan latar belakang akademik yang solid serta pengalaman mendalam di bidang pelaporan keuangan dan manajemen investasi.
+                  Finwest Consulting didirikan pada tahun 2025 oleh Andrew Christmercy Nababan, S.Tr., Ak., CAIA., CIAS, seorang profesional di bidang akuntansi dan investasi yang telah mengantongi berbagai sertifikasi bergengsi seperti Bravet AB, Chartered Auditor Internal Awareness (CAIA) dan Chartered Internal Auditor Senior (CIAS). Andrew merupakan lulusan Program Studi Akuntansi IPB University dengan latar belakang akademik yang solid serta pengalaman mendalam di bidang pelaporan keuangan dan manajemen komunikasi bisnis & investasi.
                 </p>
                 <p className="text-gray-700 leading-relaxed text-justify mt-4">
-                  Sebagai Founder, Andrew membawa visi untuk menciptakan layanan konsultasi yang tidak hanya akurat secara teknis, tetapi juga aplikatif dan relevan bagi kebutuhan pelaku usaha di lapangan. Ia memiliki semangat tinggi dalam mendampingi UMKM dan startup agar mampu naik kelas melalui penguatan struktur keuangan dan efisiensi proses bisnis. Dengan pengalaman profesional yang mencakup berbagai sektor industri, Andrew berperan sebagai pemimpin strategis yang mendorong Finwest untuk selalu adaptif terhadap perkembangan regulasi, teknologi, dan dinamika pasar. Dedikasinya tercermin dalam pendekatan konsultasi yang berfokus pada solusi berkelanjutan serta pendampingan yang edukatif dan membangun kapabilitas klien dari dalam.
+                  Sebagai Founder, Andrew membawa visi untuk menciptakan layanan konsultasi yang tidak hanya akurat secara teknis, tetapi juga aplikatif dan relevan bagi kebutuhan pelaku usaha di lapangan. Ia memiliki semangat tinggi dalam mendampingi UMKM dan startup agar mampu naik kelas melalui penguatan struktur keuangan dan efisiensi proses bisnis. Dengan pengalaman profesional yang mencakup berbagai sektor industri, Saya berperan sebagai pemimpin strategis yang mendorong Finwest untuk selalu adaptif terhadap perkembangan regulasi, teknologi, dan dinamika pasar. Dedikasinya tercermin dalam pendekatan konsultasi yang berfokus pada solusi berkelanjutan serta pendampingan yang edukatif dan membangun kapabilitas klien dari dalam.
                 </p>
               </div>
 
@@ -98,7 +98,7 @@ export default function TentangPage() {
                 <p className="text-gray-600">📧 novikaharianja.finwest@gmail.com</p>
                 <p className="text-gray-600 mb-4">📞 +62 856-9254-8836</p>
                 <p className="text-gray-700 leading-relaxed text-justify">
-                  Bersama beliau, Novika Frialestari Harianja, S.Ak., lulusan Akuntansi dari Universitas Advent Indonesia, turut mendirikan Finwest Consulting sebagai Co-Founder. Novika memiliki pemahaman yang kuat dalam akuntansi operasional dan pengelolaan sistem keuangan.
+                  Bersama beliau, Novika Frialestari Harianja, S.Ak., lulusan Akuntansi dari Universitas Advent Indonesia, turut mendirikan Finwest Consulting sebagai Co-Founder. Novika memiliki pemahaman yang kuat dalam akuntansi dan pengelolaan sistem keuangan.
                 </p>
                 <p className="text-gray-700 leading-relaxed text-justify mt-4">
                   Finwest Consulting hadir dengan misi utama untuk memberikan layanan konsultasi yang komprehensif dalam hal penyusunan pelaporan keuangan dan perancangan alur proses bisnis yang optimal. Fokus utama perusahaan adalah membantu pelaku Usaha Mikro, Kecil, dan Menengah (UMKM) serta startup dalam membangun sistem keuangan yang rapi, akurat, dan sesuai dengan standar akuntansi serta regulasi yang berlaku.
