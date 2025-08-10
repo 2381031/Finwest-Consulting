@@ -12,14 +12,18 @@ export default function Navigation() {
     <nav className="bg-white shadow-lg fixed w-full top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
+          {/* Logo */}
           <div className="flex items-center space-x-2">
-            <Link href="/" className="flex items-center space-x-2">
+            <Link
+              href="/"
+              className="flex items-center space-x-2 text-gray-700 hover:text-blue-900 focus:text-blue-900 active:text-blue-900 transition-colors outline-none focus:outline-none"
+            >
               <Image
                 src="/logo-finwest.png"
                 alt="Logo Finwest"
-                width={32}
-                height={32}
-                className="rounded-full" // Membuat logo bulat
+                width={50}
+                height={50}
+                className="rounded-full"
                 priority
               />
               <span className="text-2xl font-bold text-blue-900">Finwest Consulting</span>
@@ -28,16 +32,28 @@ export default function Navigation() {
 
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center space-x-8">
-            <Link href="/" className="text-gray-700 hover:text-blue-900 transition-colors">
+            <Link
+              href="/"
+              className="text-gray-700 hover:text-blue-900 focus:text-blue-900 active:text-blue-900 transition-colors outline-none focus:outline-none"
+            >
               Beranda
             </Link>
-            <Link href="/tentang" className="text-gray-700 hover:text-blue-900 transition-colors">
+            <Link
+              href="/tentang"
+              className="text-gray-700 hover:text-blue-900 focus:text-blue-900 active:text-blue-900 transition-colors outline-none focus:outline-none"
+            >
               Tentang Kami
             </Link>
-            <Link href="/layanan" className="text-gray-700 hover:text-blue-900 transition-colors">
+            <Link
+              href="/layanan"
+              className="text-gray-700 hover:text-blue-900 focus:text-blue-900 active:text-blue-900 transition-colors outline-none focus:outline-none"
+            >
               Layanan
             </Link>
-            <Link href="/kontak" className="text-gray-700 hover:text-blue-900 transition-colors">
+            <Link
+              href="/kontak"
+              className="text-gray-700 hover:text-blue-900 focus:text-blue-900 active:text-blue-900 transition-colors outline-none focus:outline-none"
+            >
               Kontak
             </Link>
           </div>
@@ -46,7 +62,7 @@ export default function Navigation() {
           <div className="md:hidden flex items-center">
             <button
               onClick={() => setIsOpen(!isOpen)}
-              className="text-gray-700 hover:text-blue-900"
+              className="text-gray-700 hover:text-blue-900 focus:text-blue-900 active:text-blue-900 outline-none focus:outline-none"
             >
               {isOpen ? <X size={24} /> : <Menu size={24} />}
             </button>
@@ -57,16 +73,28 @@ export default function Navigation() {
         {isOpen && (
           <div className="md:hidden">
             <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-white border-t">
-              <Link href="/" className="block px-3 py-2 text-gray-700 hover:text-blue-900">
+              <Link
+                href="/"
+                className="block px-3 py-2 text-gray-700 hover:text-blue-900 focus:text-blue-900 active:text-blue-900 transition-colors outline-none focus:outline-none"
+              >
                 Beranda
               </Link>
-              <Link href="/tentang" className="block px-3 py-2 text-gray-700 hover:text-blue-900">
+              <Link
+                href="/tentang"
+                className="block px-3 py-2 text-gray-700 hover:text-blue-900 focus:text-blue-900 active:text-blue-900 transition-colors outline-none focus:outline-none"
+              >
                 Tentang Kami
               </Link>
-              <Link href="/layanan" className="block px-3 py-2 text-gray-700 hover:text-blue-900">
+              <Link
+                href="/layanan"
+                className="block px-3 py-2 text-gray-700 hover:text-blue-900 focus:text-blue-900 active:text-blue-900 transition-colors outline-none focus:outline-none"
+              >
                 Layanan
               </Link>
-              <Link href="/kontak" className="block px-3 py-2 text-gray-700 hover:text-blue-900">
+              <Link
+                href="/kontak"
+                className="block px-3 py-2 text-gray-700 hover:text-blue-900 focus:text-blue-900 active:text-blue-900 transition-colors outline-none focus:outline-none"
+              >
                 Kontak
               </Link>
             </div>
