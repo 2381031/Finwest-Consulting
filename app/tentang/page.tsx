@@ -76,7 +76,7 @@ export default function TentangPage() {
                 />
                 <h4 className="text-xl font-semibold text-blue-900">Andrew Christmercy Nababan, S.Tr., Ak., CAIA., CIAS</h4>
                 <p className="text-gray-700 mb-1">Founder</p>
-                <p className="text-gray-600">📧 finwestconsulting@gmail.com</p>
+                <p className="text-gray-600">📧 andrewcristmercy.finwest@gmail.com</p>
                 <p className="text-gray-600 mb-4">📞 +62 856-9254-8836</p>
                 <p className="text-gray-700 leading-relaxed text-justify">
                   Finwest Consulting didirikan pada tahun 2025 oleh Andrew Christmercy Nababan, S.Tr., Ak., CAIA., CIAS, seorang profesional di bidang akuntansi dan investasi yang telah mengantongi berbagai sertifikasi bergengsi seperti Bravet AB, Chartered Auditor Internal Awareness (CAIA), dan Chartered Internal Auditor Senior (CIAS). Andrew merupakan lulusan Program Studi Akuntansi IPB University, dengan latar belakang akademik yang solid serta pengalaman mendalam di bidang pelaporan keuangan dan manajemen investasi.
